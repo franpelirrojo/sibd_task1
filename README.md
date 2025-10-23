@@ -2,9 +2,10 @@
 Un repo moi simple
 
 ## Apartado 1
-
-1. Lista
-1. Lista
+Ejecuta el script con:
+```shell
+python3 script1.py
+```
 
 ## Apartado 2
 
