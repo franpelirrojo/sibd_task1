@@ -1,5 +1,5 @@
 # sibd_task1
-Un repo moi simple
+Un repo moi moi simple.
 
 ## Apartado 1
 Ejecuta el script con:
